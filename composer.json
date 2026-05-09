@@ -19,11 +19,11 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^7.4",
-        "silverstripe/recipe-core": "^4.0 || ^5.0",
-        "silverstripe/vendor-plugin": "^1.0 || ^2.0"
+        "silverstripe/recipe-core": "^4.0 || ^5.0 || ^6.0",
+        "silverstripe/vendor-plugin": "^1.0 || ^2.0 || ^3.0"
     },
     "require-dev": {
-        "silverstripe/recipe-testing": "^2 || ^3"
+        "silverstripe/recipe-testing": "^2 || ^3 || ^4"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
