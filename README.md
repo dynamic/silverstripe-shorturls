@@ -12,7 +12,7 @@ Create short URLs via Bit.ly, tagged with Google Analytics Campaign data.
 
 ## Requirements
 
-- SilverStripe 4
+- Silverstripe ^6
 - guzzlehttp/guzzle ^7.4
 
 ## Installation

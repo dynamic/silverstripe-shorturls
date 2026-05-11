@@ -7,10 +7,10 @@ use SilverStripe\Forms\FieldList;
 use SilverStripe\Forms\GridField\GridField;
 use SilverStripe\Forms\GridField\GridFieldAddExistingAutocompleter;
 use SilverStripe\Forms\GridField\GridFieldConfig_RelationEditor;
-use SilverStripe\ORM\DataExtension;
+use SilverStripe\Core\Extension;
 use Symbiote\GridFieldExtensions\GridFieldAddExistingSearchButton;
 
-class SiteTreeDataExtension extends DataExtension
+class SiteTreeDataExtension extends Extension
 {
     /**
      * @var array
